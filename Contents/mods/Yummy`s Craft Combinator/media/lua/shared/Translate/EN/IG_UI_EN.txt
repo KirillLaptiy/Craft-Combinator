@@ -1,0 +1,11 @@
+IGUI_EN = {
+	IGUI_CraftCategory_Carpentry = "Carpentry",
+	IGUI_CraftCategory_Health = "Health",
+	IGUI_CraftCategory_Survivalist = "Survivalist",
+	IGUI_CraftCategory_Welding = "Metalworking",
+	IGUI_CraftCategory_Mechanics = "Mechanics",
+	IGUI_CraftCategory_Firearm = "Firearm",
+	IGUI_CraftCategory_Drawing = "Drawing",
+	IGUI_CraftCategory_Tailoring = "Tailoring",
+	IGUI_CraftCategory_Melee = "Melee weapons",
+}

@@ -1,0 +1,15 @@
+IGUI_FR = {
+
+
+	IGUI_CraftCategory_Carpentry = "Menuiserie",
+	IGUI_CraftCategory_Health = "Santé",
+	IGUI_CraftCategory_Survivalist = "Survivalisme",
+	IGUI_CraftCategory_Welding = "Travail des métaux",
+	IGUI_CraftCategory_Mechanics = "Mécanique automobile",
+	IGUI_CraftCategory_Firearm = "Arme à feu",
+	IGUI_CraftCategory_Drawing = "Peinture",
+	IGUI_CraftCategory_Tailoring = "Couture",
+	IGUI_CraftCategory_Melee = "Armes de mêlée",
+
+
+}

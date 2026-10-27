@@ -1,0 +1,11 @@
+IGUI_RU = {
+	IGUI_CraftCategory_Carpentry = "Строительство",
+	IGUI_CraftCategory_Health = "Медицина",
+	IGUI_CraftCategory_Survivalist = "Выживание",
+	IGUI_CraftCategory_Welding = "Газосварка",
+	IGUI_CraftCategory_Mechanics = "Автомеханика",
+	IGUI_CraftCategory_Firearm = "Огнестрельное оружие",
+	IGUI_CraftCategory_Drawing = "Рисование",
+	IGUI_CraftCategory_Tailoring = "Шитьё",
+	IGUI_CraftCategory_Melee = "Холодное оружие",
+}

@@ -1,0 +1,11 @@
+IGUI_UA = {
+	IGUI_CraftCategory_Carpentry = "Будівництво",
+	IGUI_CraftCategory_Health = "Медицина",
+	IGUI_CraftCategory_Survivalist = "Виживання",
+	IGUI_CraftCategory_Welding = "Газозварка",
+	IGUI_CraftCategory_Mechanics = "Автомеханіка",
+	IGUI_CraftCategory_Firearm = "Вогнепальна зброя",
+	IGUI_CraftCategory_Drawing = "Малювання",
+	IGUI_CraftCategory_Tailoring = "Шиття",
+	IGUI_CraftCategory_Melee = "Холодна зброя",
+}
